@@ -1,6 +1,7 @@
 # CyberGhost-WireGuard-Dumper
-Dump the WireGuard config without using the cyberghostvpn client.
+Dump the WireGuard config without using the `cyberghostvpn` client.
 This script will produce a valid WireGuard config which you can use to create and start WireGuard tunnels.
+Just run the script using the following command `python3 cyberGhostWireGuard.py`
 
 # Prerequisites
 The only thing you need is the 'x-app-key' value. 
